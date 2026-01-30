@@ -1,0 +1,74 @@
+{
+  "Warps": [
+    {
+      "Id": "bioma escuro",
+      "World": "default",
+      "Creator": "*Teleporter",
+      "CreationDate": "2026-01-24T05:09:26.701046700Z",
+      "X": -439.5,
+      "Y": 153.65,
+      "Z": -2140.5,
+      "Yaw": 4.71238899230957
+    },
+    {
+      "Id": "Bereno´s",
+      "World": "default",
+      "Creator": "*Teleporter",
+      "CreationDate": "2026-01-25T03:29:49.071982700Z",
+      "X": 2052.5,
+      "Y": 139.65,
+      "Z": -3626.5,
+      "Yaw": 4.71238899230957
+    },
+    {
+      "Id": "Gélido",
+      "World": "default",
+      "Creator": "*Teleporter",
+      "CreationDate": "2026-01-25T02:36:53.079640800Z",
+      "X": -371.5,
+      "Y": 137.65,
+      "Z": -1265.5,
+      "Yaw": 7.853981971740723
+    },
+    {
+      "Id": "Spawn",
+      "World": "default",
+      "Creator": "*Teleporter",
+      "CreationDate": "2026-01-25T05:07:19.238573500Z",
+      "X": -78.5,
+      "Y": 123.65,
+      "Z": 196.5,
+      "Yaw": 4.71238899230957
+    },
+    {
+      "Id": "Deserto",
+      "World": "default",
+      "Creator": "*Teleporter",
+      "CreationDate": "2026-01-25T04:49:22.524608100Z",
+      "X": -460.5,
+      "Y": 125.65,
+      "Z": 1423.5,
+      "Yaw": 4.71238899230957
+    },
+    {
+      "Id": "Castelo zona 4",
+      "World": "default",
+      "Creator": "*Teleporter",
+      "CreationDate": "2026-01-25T02:18:21.668605700Z",
+      "X": -2.5,
+      "Y": 129.65,
+      "Z": -2865.5,
+      "Yaw": 7.853981971740723
+    },
+    {
+      "Id": "Memórias",
+      "World": "default",
+      "Creator": "*Teleporter",
+      "CreationDate": "2026-01-23T07:04:04.545292400Z",
+      "X": 191.5,
+      "Y": 110.65,
+      "Z": 200.5,
+      "Yaw": 7.853981971740723
+    }
+  ]
+}
