@@ -17,7 +17,71 @@
     }
   },
   "LogLevels": {},
-  "Mods": {},
+  "Mods": {
+    "Buuz135:AdvancedItemInfo": {
+      "Enabled": false
+    },
+    "dev.ninesliced:BetterMap": {
+      "Enabled": false
+    },
+    "sum1000:Boat Collections": {
+      "Enabled": false
+    },
+    "pixelcomet:ConveyorBelt": {
+      "Enabled": false
+    },
+    "CubiaRemains:Cubia Companions": {
+      "Enabled": false
+    },
+    "me.Zistroxy:Mighty Staffs": {
+      "Enabled": false
+    },
+    "Ziggfreed:MMOSkillTree": {
+      "Enabled": false
+    },
+    "Buuz135:MultipleHUD": {
+      "Enabled": false
+    },
+    "Onilke:Necronomicon": {
+      "Enabled": false
+    },
+    "Zuxaw:RPGLeveling": {
+      "Enabled": false
+    },
+    "Darkhax:Spellbook": {
+      "Enabled": false
+    },
+    "fevzi:TerrariaAddons": {
+      "Enabled": false
+    },
+    "Carlin:Tradu\u00E7\u00E3o Brasileira": {
+      "Enabled": false
+    },
+    "Violet:Violet\u0027s Furnishings": {
+      "Enabled": false
+    },
+    "Violet:Violet\u0027s Wardrobe": {
+      "Enabled": false
+    },
+    "WanMine:Wan\u0027s Wonder Weapons": {
+      "Enabled": false
+    },
+    "Conczin:Ymmersive Melodies": {
+      "Enabled": false
+    },
+    "NoCube:[NoCube\u0027s] Bakehouse": {
+      "Enabled": false
+    },
+    "NoCube:[NoCube\u0027s] Culinary": {
+      "Enabled": false
+    },
+    "NoCube:[NoCube\u0027s] Cultivation": {
+      "Enabled": false
+    },
+    "NoCube:[NoCube\u0027s] Tavern": {
+      "Enabled": false
+    }
+  },
   "DisplayTmpTagsInStrings": false,
   "PlayerStorage": {
     "Type": "Hytale"

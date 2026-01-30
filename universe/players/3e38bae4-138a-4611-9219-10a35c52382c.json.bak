@@ -20,13 +20,13 @@
     "UIComponentList": {},
     "Transform": {
       "Position": {
-        "X": -52.94551086425781,
+        "X": -52.90822982788086,
         "Y": 122.0,
-        "Z": 207.20010375976562
+        "Z": 205.79995727539062
       },
       "Rotation": {
         "Pitch": 0.0,
-        "Yaw": -110.03092193603516,
+        "Yaw": 0.017761919647455215,
         "Roll": 0.0
       }
     },
@@ -122,7 +122,7 @@
       "Velocity": {
         "X": 0.0,
         "Y": 0.0,
-        "Z": 0.0
+        "Z": 9.155255565963997E-4
       }
     },
     "ExplorationData": {
@@ -143,6 +143,13 @@
             "0": {
               "Id": "Deco_Rope",
               "Quantity": 2,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "33": {
+              "Id": "Rock_Quartzite_Brick_Smooth",
+              "Quantity": 17,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -513,11 +520,11 @@
         "PerWorldData": {
           "default": {
             "LastPosition": {
-              "X": -52.845611572265625,
+              "X": -52.90859603881836,
               "Y": 122.0,
-              "Z": 207.76084899902344,
-              "Pitch": -0.015547238290309906,
-              "Yaw": 2.490949869155884,
+              "Z": 205.77976989746094,
+              "Pitch": 0.0207974873483181,
+              "Yaw": 0.018273459747433662,
               "Roll": 0.0
             },
             "LastMovementStates": {
@@ -568,39 +575,27 @@
           }
         },
         "DiscoveredZones": [
-          "Oceans",
-          "Zone1_Temple",
           "Zone4_Shallow_Ocean_Tier5",
-          "ForgottenTemple",
-          "Zone1_Tier3",
+          "Zone1_Shore",
+          "Zone1_Temple",
+          "Zone2_Tier3",
+          "Zone4_Tier5",
+          "Zone1_Spawn",
+          "Oceans",
+          "Zone3_Shore_Tier3",
           "Zone3_Shallow_Ocean_Tier3",
+          "Zone4_Shore_Tier5",
+          "Zone1_Tier3",
+          "ForgottenTemple",
           "Zone1_Tier2",
           "Zone1_Tier1",
-          "Zone3_Tier2",
-          "Zone1_Spawn",
           "Zone3_Tier3",
-          "Zone3_Shore_Tier3",
-          "Zone4_Tier5",
-          "Zone4_Shore_Tier5",
-          "Zone2_Tier3",
-          "Zone1_Shore",
+          "Zone3_Tier2",
           "Zone3_Tier1"
         ],
         "DiscoveredInstances": [
           {
-            "$binary": "Vx2/lfQjQtmDPblWAsvOqQ==",
-            "$type": "04"
-          },
-          {
-            "$binary": "710c5Wc2Rz+4hpxdl+MsJQ==",
-            "$type": "04"
-          },
-          {
-            "$binary": "4q6b/kqTQVuvyT6eXDw+GQ==",
-            "$type": "04"
-          },
-          {
-            "$binary": "v/7678O+Rt6o1rxhceeqRA==",
+            "$binary": "6V6wdZusTNqLIMA9WC5wkg==",
             "$type": "04"
           },
           {
@@ -608,11 +603,15 @@
             "$type": "04"
           },
           {
-            "$binary": "6V6wdZusTNqLIMA9WC5wkg==",
+            "$binary": "v/7678O+Rt6o1rxhceeqRA==",
             "$type": "04"
           },
           {
-            "$binary": "eJ0CnefmSP6YP00XkC71gA==",
+            "$binary": "4q6b/kqTQVuvyT6eXDw+GQ==",
+            "$type": "04"
+          },
+          {
+            "$binary": "oxOqj5L8QIqm852tw1IQSA==",
             "$type": "04"
           },
           {
@@ -620,7 +619,15 @@
             "$type": "04"
           },
           {
-            "$binary": "oxOqj5L8QIqm852tw1IQSA==",
+            "$binary": "eJ0CnefmSP6YP00XkC71gA==",
+            "$type": "04"
+          },
+          {
+            "$binary": "Vx2/lfQjQtmDPblWAsvOqQ==",
+            "$type": "04"
+          },
+          {
+            "$binary": "710c5Wc2Rz+4hpxdl+MsJQ==",
             "$type": "04"
           }
         ],
@@ -726,8 +733,8 @@
     },
     "HeadRotation": {
       "Rotation": {
-        "Pitch": -0.34145256876945496,
-        "Yaw": 3.114023208618164,
+        "Pitch": 0.0207974873483181,
+        "Yaw": 0.018273459747433662,
         "Roll": 0.0
       }
     }
