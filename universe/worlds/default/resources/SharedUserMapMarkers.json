@@ -1,0 +1,17 @@
+{
+  "UserMarkers": [
+    {
+      "Id": "user_shared_05fa4db4-81f7-4d43-8938-2a2f45368a10",
+      "X": 261.0,
+      "Z": 434.0,
+      "Name": "Kwebek",
+      "Icon": "UserD.png",
+      "ColorTint": "#00f482",
+      "CreatedByUuid": {
+        "$binary": "Pji65BOKRhGSGRCjXFI4LA==",
+        "$type": "04"
+      },
+      "CreatedByName": "AureaStarlight"
+    }
+  ]
+}

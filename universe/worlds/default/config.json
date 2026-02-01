@@ -8,7 +8,8 @@
   "Seed": 1769135745056,
   "WorldGen": {
     "Type": "Hytale",
-    "Name": "Default"
+    "Name": "Default",
+    "Version": "0.0.0"
   },
   "WorldMap": {
     "Type": "WorldGen"
@@ -22,7 +23,7 @@
   "IsPvpEnabled": false,
   "IsFallDamageEnabled": true,
   "IsGameTimePaused": false,
-  "GameTime": "0001-01-28T08:29:11.413137023Z",
+  "GameTime": "0001-01-29T05:55:21.902677159Z",
   "ClientEffects": {
     "SunHeightPercent": 100.0,
     "SunAngleDegrees": 0.0,
